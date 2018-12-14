@@ -29,8 +29,18 @@ A curated list of anything related software which use animal as its icon.
 
 ## DevOps
 
-* <img width="25" src="https://octopus.com/images/(global)/favicon.png">[Octopus Deploy](https://octopus.com/)
+### Source Control
+
+* <img width="25" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">[Github](github.com) - GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.
+* <img width="25" src="https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo.png">[Gitlab](https://gitlab.com/) - From project planning and source code management to CI/CD and monitoring, GitLab is a single application for the entire DevOps lifecycle. Only GitLab enables Concurrent DevOps to make the software lifecycle 200% faster.
+
+### Logging
+
 * <img width="25" src="https://www.fluentd.org/favicon.ico">[Fluentd](https://www.fluentd.org/)
+
+### Continuous Delivery
+
+* <img width="25" src="https://octopus.com/images/(global)/favicon.png">[Octopus Deploy](https://octopus.com/)
 
 ## Container
 
@@ -44,4 +54,4 @@ A curated list of anything related software which use animal as its icon.
 
 ## Network
 
-* <img width="25" src="">[Multus](https://github.com/intel/multus-cni)
+* [Multus](https://github.com/intel/multus-cni)
