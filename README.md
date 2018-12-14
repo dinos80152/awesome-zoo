@@ -8,6 +8,10 @@ A curated list of anything related software which use animal as its icon.
 * <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png">[PHP](http://www.php.net/)
 * <img width="25" src="https://www.python.org/static/opengraph-icon-200x200.png">[Python](https://www.python.org/)
 
+## Front-end
+
+* <img width="25" src="https://bower.io/img/bower-logo.png">[Bower](https://bower.io/) - a package manager for the web
+
 ## Database
 
 * <img width="25" src="https://planet.mysql.com/images/planet-logo.svg">[MySQL](https://www.mysql.com/)
