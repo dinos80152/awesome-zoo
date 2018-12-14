@@ -30,6 +30,7 @@ A curated list of anything related software which use animal as its icon.
 * <img width="25" src="https://cdn.worldvectorlogo.com/logos/hbase.svg">[HBase](https://hbase.apache.org/)
 * <img width="25" src="https://hadoop.apache.org/elephant.png">[Hadoop](https://hadoop.apache.org/)
 * <img width="25" src="https://flink.apache.org/img/logo/png/50/color_50.png">[Flink](https://flink.apache.org/)
+* <img width="25" src="https://hive.apache.org/images/hive_logo_medium.jpg">[Hive](https://hive.apache.org/) - The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL.
 
 ## DevOps
 
