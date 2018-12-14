@@ -16,14 +16,11 @@ A curated list of anything related software which use animal as its icon.
 
 * <img width="25" src="https://planet.mysql.com/images/planet-logo.svg">[MySQL](https://www.mysql.com/)
 * <img width="25" src="https://www.postgresql.org/media/img/about/press/elephant.png">[PostgreSQL](https://www.postgresql.org/)
+* <img width="25" src="https://mariadb.org/wp-content/uploads/2017/03/cropped-MariaDB-seal-white-512x512-180x180.png">[MariaDB](https://mariadb.org/) - MariaDB Server is one of the most popular database servers in the world.
 
 ### Tools
 
 * <img width="25" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png">[DBeaver](https://dbeaver.io/) - Free Universal Database Tool
-
-## Security
-
-* <img width="25" src="https://res.cloudinary.com/snyk/image/upload/v1533761770/logo-1_wtob68.svg">[Snyk](https://snyk.io/)
 
 ## Cache
 
@@ -56,6 +53,10 @@ A curated list of anything related software which use animal as its icon.
 * <img width="25" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png">[Docker](https://www.docker.com/)
 * <img width="25" src="https://rancher.com/img/brand-guidelines/assets/logos/svg/cow/rancher-logo-cow-blue.svg">[Rancher](https://rancher.com)
 * <img width="25" src="https://www.openfaas.com/images/favicon.png">[OpenFaaS](https://www.openfaas.com/)
+
+## Security
+
+* <img width="25" src="https://res.cloudinary.com/snyk/image/upload/v1533761770/logo-1_wtob68.svg">[Snyk](https://snyk.io/)
 
 ## Blockchain
 
