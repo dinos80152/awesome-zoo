@@ -25,6 +25,10 @@ A curated list of anything related software which use animal as its icon.
 
 * <img width="25" src="https://res.cloudinary.com/snyk/image/upload/v1533761770/logo-1_wtob68.svg">[Snyk](https://snyk.io/)
 
+## Cache
+
+* <img width="25" src="https://cdn.worldvectorlogo.com/logos/memcached.svg">[Memcached](https://memcached.org/) - a distributed memory object caching system
+
 ## Big Data
 
 * <img width="25" src="https://cdn.worldvectorlogo.com/logos/hbase.svg">[HBase](https://hbase.apache.org/)
