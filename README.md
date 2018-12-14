@@ -40,7 +40,7 @@ A curated list of anything related software which use animal as its icon.
 
 ## Blockchain
 
-* <img width="25" src="https://oysterprotocol.com/wp-content/themes/woxa/images/logo-white.png">[Oyster](https://oysterprotocol.com/)
+* <img width="25" src="https://oysterprotocol.com/wp-content/uploads/2018/07/cropped-oyster-logo-150x150.png">[Oyster](https://oysterprotocol.com/)
 
 ## Network
 
