@@ -49,7 +49,7 @@ A curated list of anything related software which use animal as its icon.
 ### Web Server
 
 * <img width="25" src="https://tomcat.apache.org/res/images/tomcat.png"> [Apache Tomcat](http://tomcat.apache.org/) - The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies.
-* <img width="25" src="http://www.innoscript.org/assets/Uploads/_resampled/ResizedImage187187-porcupine.png"> [Porcupine](http://www.innoscript.org) - Porcupine is an open-source Python based Web application server that provides front-end and back-end revolutionary technologies for building modern data-centric Web 2.0 applications.
+* <img width="25" src="http://www.innoscript.org/porcupine/images/porcupineicon16.png"> [Porcupine](http://www.innoscript.org) - Porcupine is an open-source Python based Web application server that provides front-end and back-end revolutionary technologies for building modern data-centric Web 2.0 applications.
 
 ## DevOps
 
