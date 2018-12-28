@@ -7,6 +7,7 @@ A curated list of anything related software which use animal as its icon.
 * <img width="25" src="https://sdtimes.com/wp-content/uploads/2018/02/golang.sh_-490x490.png"> [Golang](https://golang.org/)
 * <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png"> [PHP](http://www.php.net/)
 * <img width="25" src="https://www.python.org/static/opengraph-icon-200x200.png"> [Python](https://www.python.org/)
+* <img width="25" src="https://avatars0.githubusercontent.com/u/380260?s=200&v=4">[Pike](http://pike.lysator.liu.se/) - Pike is a dynamic programming language with a syntax similar to Java and C. It is simple to learn, does not require long compilation passes and has powerful built-in data types allowing simple and really fast data manipulation.
 
 ## Front-end
 
