@@ -6,6 +6,9 @@ A curated list of anything related software which use animal as its icon.
 
 * <img width="25" src="https://sdtimes.com/wp-content/uploads/2018/02/golang.sh_-490x490.png"> [Golang](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 * <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1024px-Webysther_20160423_-_Elephpant.svg.png"> [PHP](http://www.php.net/) - PHP is a popular general-purpose scripting language that is especially suited to web development.
+  * <img width="25" src="https://phalconphp.com/images/logo.png"> [phalcon](https://phalconphp.com/) - A full-stack PHP framework delivered as a C-extension
+  * <img width="25" src="https://www.slimframework.com/assets/images/favicon.png"> [Slim](https://www.slimframework.com/) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+
 * <img width="25" src="https://www.python.org/static/opengraph-icon-200x200.png"> [Python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
 * <img width="25" src="https://avatars0.githubusercontent.com/u/380260?s=200&v=4"> [Pike](http://pike.lysator.liu.se/) - Pike is a dynamic programming language with a syntax similar to Java and C. It is simple to learn, does not require long compilation passes and has powerful built-in data types allowing simple and really fast data manipulation.
 * <img width="25" src="https://swift.org/apple-touch-icon.png"> [Swift](https://swift.org/) - Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS.
